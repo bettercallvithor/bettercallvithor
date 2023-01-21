@@ -1,6 +1,7 @@
 # Olá, meu nome é Vithor 👋
 - 👨‍💻📒Sou estudante de Ciência de Computação pela Universidade Paulista em São José do Rio Preto. Atualmente cursando o 5° semestre.
 - 🖥️Atualmente trabalho como Help Desk. Estudo e pratico desenvolvimento com a plataforma .NET em meu tempo livre no dia a dia.
+- ✏️Possuo em meus plano de logo começar a estudar sobre DevOps!
 ---
 ## Ferramentas e tecnologias
 <div style="display: inline_block">
