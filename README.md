@@ -15,7 +15,7 @@
 
 ## Ferramentas e tecnologias em que estou estudando
 <div style="display: inline_block">
-    <img align="center" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div>
 </br>
 
