@@ -1,12 +1,12 @@
 # Olá, meu nome é Vithor 👋
-- 👨‍💻📒Sou estudante de Ciência de Computação pela Universidade Paulista em São José do Rio Preto. Atualmente cursando o 6° semestre.
-- 🖥️Atualmente trabalho como Help Desk. Estudo e pratico desenvolvimento com a plataforma .NET em meu tempo livre no dia a dia.
-- ✏️Possuo em meus plano de logo começar a estudar sobre DevOps!
+- 👨‍💻📒Sou estudante de Ciência de Computação pela Universidade Paulista em São José do Rio Preto. Atualmente cursando o 7° semestre.
+- 🖥️Sou desenvolvedor de Software, atualmente como estágio. Estudo e pratico desenvolvimento em meu tempo livre, assim como a utilização de novas ferramentas.
 ---
 ## Ferramentas e tecnologias
 <div style="display: inline_block">
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -16,7 +16,8 @@
 
 ## Ferramentas e tecnologias em que estou estudando
 <div style="display: inline_block">
-    <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
 </div>
 </br>
 
