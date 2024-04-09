@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=F73F3F&background=B8464600&random=false&width=500&lines=Hi%2C+my+name+is+Vithor+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=32&pause=1000&color=F73F3F&background=B8464600&center=true&vCenter=true&random=false&width=500&lines=Hi%2C+my+name+is+Vithor+%F0%9F%91%8B;Welcome+to+my+profile!)](https://git.io/typing-svg)
+---
 
 👨‍💻📒I'm a Computer Science student at Universidade Paulista in São José do Rio Preto/Brazil. Currently in my 7th semester.<br>
 🖥️I'm a software developer, currently doing an internship. I study and practice development in my spare time, as well as using new tools.<br>
