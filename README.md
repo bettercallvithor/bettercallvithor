@@ -25,7 +25,6 @@
 </div>
 
 ## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vithortinti&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vithortinti&layout=compact)
 
 ## Social Medias
