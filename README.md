@@ -24,7 +24,7 @@
 </div>
 
 ### GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vithortinti&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vithortinti&layout=compact&theme=radical)
 
 ### Social Medias
 <div style="display: inline_block">
