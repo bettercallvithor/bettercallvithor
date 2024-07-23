@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-👨‍💻📒I'm a Computer Science student at Universidade Paulista in São José do Rio Preto/Brazil. Currently in my 7th semester.<br>
+👨‍💻📒I'm a Computer Science student at Universidade Paulista in São José do Rio Preto/Brazil. Currently in my 8th and last semester.<br>
 🖥️I'm a software developer, currently doing an internship. I study and practice development in my spare time, as well as using new tools.<br>
 ⚒️I work with .NET technologies most of the time using Microsoft's C# language, working on the Back-End side of applications.<br>
 🎯I'm looking to improve my Front-End knowledge and become a Full-Stack developer in the future.
