@@ -28,7 +28,7 @@
 
 ### 𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊𝚜
 <div style="display: inline_block">
-    <a target="_blank" href="https://www.linkedin.com/in/vithor-tinti/">
+    <a target="_blank" href="https://www.linkedin.com/in/vithor-tinti/?locale=en_US">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
     </a>
 </div>
