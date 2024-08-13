@@ -6,9 +6,6 @@
 
 ⚒️𝙸 𝚠𝚘𝚛𝚔 𝚠𝚒𝚝𝚑 .𝙽𝙴𝚃 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚖𝚘𝚜𝚝 𝚘𝚏 𝚝𝚑𝚎 𝚝𝚒𝚖𝚎 𝚞𝚜𝚒𝚗𝚐 𝙼𝚒𝚌𝚛𝚘𝚜𝚘𝚏𝚝'𝚜 𝙲# 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎, 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚝𝚑𝚎 𝙱𝚊𝚌𝚔-𝙴𝚗𝚍 𝚜𝚒𝚍𝚎 𝚘𝚏 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜.
 
-🎯𝙸'𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚒𝚖𝚙𝚛𝚘𝚟𝚎 𝚖𝚢 𝙵𝚛𝚘𝚗𝚝-𝙴𝚗𝚍 𝚔𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 𝚊𝚗𝚍 𝚋𝚎𝚌𝚘𝚖𝚎 𝚊 𝙵𝚞𝚕𝚕-𝚂𝚝𝚊𝚌𝚔 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚒𝚗 𝚝𝚑𝚎 𝚏𝚞𝚝𝚞𝚛𝚎.
-
-
 ### 𝚃𝚘𝚘𝚕𝚜 𝚊𝚗𝚍 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜
 <div style="display: inline_block">
     <img align="center" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
