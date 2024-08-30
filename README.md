@@ -15,7 +15,6 @@
     <img align="center" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
     <img align="center" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg">
     <img align="center" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-    <img align="center" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
     <img align="center" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg"/>
 </div>
 
