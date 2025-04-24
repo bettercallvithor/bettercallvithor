@@ -14,7 +14,7 @@
 
 
 ### 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vithortinti&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bettercaulvithor&layout=compact&theme=radical)
 
 
 ### 𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊𝚜
