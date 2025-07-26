@@ -36,7 +36,7 @@
 ---
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vithor-tinti/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/vithor-tinti/" title="LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8" alt="LinkedIn"/>
   </a>
 </p>
