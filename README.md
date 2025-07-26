@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <code>Rider IDE</code> <code>Visual Studio</code> <code>Visual Studio Code</code>
+  💼 Tools: <code>Rider IDE</code> <code>Data Grip</code> <code>Visual Studio</code> <code>Visual Studio Code</code>
 </p>
 
 ---
