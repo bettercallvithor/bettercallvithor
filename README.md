@@ -17,11 +17,15 @@
 </p>
 
 <p align="left">
-  🛠️ Libraries: <code>EntityFramework</code> <code>MediatR</code> <code>AutoMapper</code> <code>Wolverine</code> <code>ReactJS</code>
+  📚 Libraries: <code>EntityFramework</code> <code>MediatR</code> <code>AutoMapper</code> <code>Wolverine</code> <code>ReactJS</code>
 </p>
 
 <p align="left">
-  💼 Tools: <code>Rider IDE</code> <code>Data Grip</code> <code>Visual Studio</code> <code>Visual Studio Code</code>
+  🛠️ Tools: <code>Rider IDE</code> <code>Data Grip</code> <code>Visual Studio</code> <code>Visual Studio Code</code>
+</p>
+
+<p align="left">
+   🎲 Databases: <code>SQL Server</code> <code>Postgres</code> <code>MySQL</code>
 </p>
 
 ---
