@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  🦄 Languages: <code>C#</code> <code>Java</code> <code>TypeScript</code> <code>HTML</code> <code>CSS</code>
+  🦄 Languages: <code>C#</code> <code>Java</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code>
 </p>
 
 <p align="left">
