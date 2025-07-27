@@ -28,9 +28,7 @@
    🎲 Databases: <code>SQL Server</code> <code>Postgres</code> <code>MySQL</code>
 </p>
 
----
-
-### My GitHub Status
+## My GitHub Status
 
 <div style="display: flex">
   <img height=150 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bettercallvithor&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
