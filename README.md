@@ -8,12 +8,10 @@
   I work as a Full Stack Developer, mainly using the <i>.NET Core</i> platform along with <i>ReactJS</i> and <i>Angular</i> frameworks.
   I'm currently focused on learning software architecture patterns and best practices to write cleaner, more readable code, especially in collaborative team environments. 
   I'm always looking for ways to improve the codebase I work on, applying what I learn while continuously growing in the process.
-
-  One programming language I'm interested in learning in the future is <code>Go</code>. It's currently on my roadmap, although I haven't set a specific time to get started yet..
 </p>
 
 <p align="left">
-  🦄 Languages: <code>C#</code> <code>Java</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code>
+  🦄 Languages: <code>C#</code> <code>Go</code> <code>Java</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code>
 </p>
 
 <p align="left">
