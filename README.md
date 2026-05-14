@@ -2,12 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  Hi, my name is <b>Vithor</b>, I'm a Brazilian developer and an enthusiast of current and new technologies. I began my journey in technology in 2021 by pursuing a Bachelor's degree in Computer Science. I completed the 4-year program at Universidade Paulista (UNIP) in São José do Rio Preto, São Paulo, Brazil in 2024.
-  
-  I work as a Full Stack Developer, mainly using the <i>.NET Core</i> platform along with <i>ReactJS</i> and <i>Angular</i> frameworks.
-  I'm currently focused on learning software architecture patterns and best practices to write cleaner, more readable code, especially in collaborative team environments. 
-  I'm always looking for ways to improve the codebase I work on, applying what I learn while continuously growing in the process.
+<p align="left">
+  Hi, I'm <b>Vithor</b>, a Brazilian Full Stack Developer working with <b>.NET Core</b> and <b>Angular</b>. Currently diving deeper into backend architecture, authentication systems, and writing clean, maintainable code. Always learning, always improving.
 </p>
 
 <p align="left">
