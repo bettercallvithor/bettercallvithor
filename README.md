@@ -1,48 +1,46 @@
-# Welcome to my GitHub profile! 👋
+## Welcome to my GitHub profile! 👋
 
-Hi, I'm **Vithor**, a **Lead Software Engineer** from Brazil.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer illustration" min-width="400px" max-width="400px" width="400px" align="right">
 
-I'm a full-stack developer working mainly with **C# / .NET** and **TypeScript**, using **Angular** and **React**.
+<p align="left">
+  Hi, I'm <b>Vithor</b>, a Brazilian <b>Lead Software Engineer</b> working across the stack with <b>.NET</b> and <b>TypeScript</b>. I work mainly with <b>C#</b>, <b>Angular</b>, and <b>React</b>, with a particular interest in backend architecture and how to design software that can evolve as it grows.
+</p>
 
-My work has a strong focus on the backend, especially **Modular Monoliths, DDD, CQRS, and REST APIs**. I also work with **SQL Server, PostgreSQL, Azure, Docker, and GitHub Actions**.
+<p align="left">
+  🦄 Languages: <code>C#</code> <code>TypeScript</code> <code>JavaScript</code>
+</p>
 
-### 🤖 Currently exploring
+<p align="left">
+  🏗️ Architecture: <code>Modular Monoliths</code> <code>DDD</code> <code>CQRS</code> <code>REST APIs</code>
+</p>
 
-I'm interested in **AI tools for software development** and how I can use them to improve my own abilities as a developer; from understanding and exploring code to solving problems and learning new things.
+<p align="left">
+  🎨 Frontend: <code>Angular</code> <code>React</code>
+</p>
 
-### 🛠️ Technologies
+<p align="left">
+  🎲 Databases: <code>SQL Server</code> <code>PostgreSQL</code>
+</p>
 
-**Languages**
+<p align="left">
+  ☁️ Cloud & Tools: <code>Azure</code> <code>Docker</code> <code>GitHub Actions</code> <code>CI/CD</code>
+</p>
 
-`C#` `TypeScript` `JavaScript`
+<p align="left">
+  🤖 Currently exploring: <code>AI Software Development</code>
+</p>
 
-**Backend**
+<p align="left">
+  I'm interested in how AI tools can help me improve my abilities as a software developer — from understanding code and solving problems to learning new technologies and exploring different ways of working.
+</p>
 
-`.NET` `REST APIs` `Modular Monoliths` `DDD` `CQRS`
-
-**Frontend**
-
-`Angular` `React`
-
-**Databases**
-
-`SQL Server` `PostgreSQL`
-
-**Cloud & Infrastructure**
-
-`Azure` `Docker` `GitHub Actions` `CI/CD`
-
----
-
-## 📊 My GitHub
+## My GitHub Status
 
 <div style="display: flex">
-  <img height="150" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bettercallvithor&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height=150 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bettercallvithor&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
 </div>
 
 ---
-
-## 🔗 Find me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vithor-tinti/" title="LinkedIn" target="_blank">
