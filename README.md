@@ -1,34 +1,48 @@
-## Welcome to my GitHub profile! 👋
+# Welcome to my GitHub profile! 👋
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+Hi, I'm **Vithor**, a **Lead Software Engineer** from Brazil.
 
-<p align="left">
-  Hi, I'm <b>Vithor</b>, a Brazilian Full Stack Developer working with <b>.NET Core</b> and <b>Angular</b>. Currently diving deeper into backend architecture, authentication systems, and writing clean, maintainable code. Always learning, always improving.
-</p>
+I'm a full-stack developer working mainly with **C# / .NET** and **TypeScript**, using **Angular** and **React**.
 
-<p align="left">
-  🦄 Languages: <code>C#</code> <code>Go</code> <code>Java</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code>
-</p>
+My work has a strong focus on the backend, especially **Modular Monoliths, DDD, CQRS, and REST APIs**. I also work with **SQL Server, PostgreSQL, Azure, Docker, and GitHub Actions**.
 
-<p align="left">
-  📚 Libraries: <code>EntityFramework</code> <code>MediatR</code> <code>AutoMapper</code> <code>Wolverine</code> <code>ReactJS</code> <code>axios</code>
-</p>
+### 🤖 Currently exploring
 
-<p align="left">
-  🛠️ Tools: <code>Rider IDE</code> <code>Data Grip</code> <code>Visual Studio</code> <code>Visual Studio Code</code>
-</p>
+I'm interested in **AI tools for software development** and how I can use them to improve my own abilities as a developer; from understanding and exploring code to solving problems and learning new things.
 
-<p align="left">
-   🎲 Databases: <code>SQL Server</code> <code>Postgres</code> <code>MySQL</code>
-</p>
+### 🛠️ Technologies
 
-## My GitHub Status
+**Languages**
+
+`C#` `TypeScript` `JavaScript`
+
+**Backend**
+
+`.NET` `REST APIs` `Modular Monoliths` `DDD` `CQRS`
+
+**Frontend**
+
+`Angular` `React`
+
+**Databases**
+
+`SQL Server` `PostgreSQL`
+
+**Cloud & Infrastructure**
+
+`Azure` `Docker` `GitHub Actions` `CI/CD`
+
+---
+
+## 📊 My GitHub
 
 <div style="display: flex">
-  <img height=150 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bettercallvithor&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="150" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bettercallvithor&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
 </div>
 
 ---
+
+## 🔗 Find me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vithor-tinti/" title="LinkedIn" target="_blank">
