@@ -30,10 +30,6 @@
   🤖 Currently exploring: <code>AI Software Development</code>
 </p>
 
-<p align="left">
-  I'm interested in how AI tools can help me improve my abilities as a software developer — from understanding code and solving problems to learning new technologies and exploring different ways of working.
-</p>
-
 ## My GitHub Status
 
 <div style="display: flex">
