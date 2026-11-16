@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  🎲 Databases: <code>SQL Server</code> <code>PostgreSQL</code>
+  🎲 Databases: <code>SQL Server</code> <code>PostgreSQL</code> <code>Cosmos</code>
 </p>
 
 <p align="left">
